@@ -1,0 +1,9 @@
+.body{
+    margin: 0px;
+}
+.main-content {
+    display: flex;    
+    align-content: center;
+    background-color: aqua;
+
+}
